@@ -49,6 +49,9 @@ starting_point
 end 
 
 def reduce_to_all_true(source_array)
+  index = 0 
+  while index < source_array.length do 
+    source_array[index] 
 end 
 
 def reduce_to_any_true(source_array)
